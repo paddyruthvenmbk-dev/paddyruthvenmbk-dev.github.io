@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.halftermhunters.ops",
+    "sha256_cert_fingerprints": ["0C:B3:00:05:3D:54:00:83:1D:64:D1:A0:E0:08:79:80:E0:4F:7B:E4:24:34:E3:52:70:ED:EF:AA:44:97:3E:04"]
+  }
+}]
